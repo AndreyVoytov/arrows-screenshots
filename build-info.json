@@ -1,0 +1,15 @@
+{
+  "version": "1.0.23",
+  "locales": [
+    "ru",
+    "tr",
+    "en",
+    "zh",
+    "ko",
+    "hi",
+    "vi",
+    "de",
+    "pt",
+    "es"
+  ]
+}
